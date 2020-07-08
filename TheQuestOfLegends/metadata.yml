@@ -1,0 +1,14 @@
+---
+:id: 34694885
+:submitters:
+- :name: Beatrice Tanaga
+  :email: btanaga@bu.edu
+- :name: Priya Kumari
+  :email: pkumari@bu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-15 02:24:12.945468000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-14 19:24:12.945468000 Z
+:status: processed
+:score: 110.0
